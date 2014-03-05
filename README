@@ -1,0 +1,5 @@
+This program must be executed in a console to display (in the console)
+a pyramid where each tier counts. The user may choose how many tiers 
+to build the pyramid with (the program will say "pick a number 1-9" because the program will work best with those numbers.  You can choose more if you want a funky looking pyramid).
+
+Run this program through a java command (java CountingPyramid)
